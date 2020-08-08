@@ -11,21 +11,24 @@
 	text-align: center;
 }
 
-.Downnload-btn{
+.Downnload-profile{
 	background-color: darkorange;
 	border: none;
-	color: white;
+	color: #f8f7f7;
 	padding: 12px 30px;
 	cursor: pointer;
-	font-size: 20px;
+	
+	font-size: 18px;
 	text-align: center;	
 	margin-left: 38%;
-	max-width: 100%
+	max-width: inherit
+	height: 50px;
 }
-.Downnload-btn:hover{
+.Downnload-profile:hover{
 	background-color: royalblue;
 	transition: 1.3s;
 }
+
 
 .button-More{
 	padding: 10px 15px;
