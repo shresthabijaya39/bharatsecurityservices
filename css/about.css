@@ -1,0 +1,51 @@
+.about-section{
+	margin: 0;
+	box-sizing: border-box;
+	padding: 50px;
+	background-color: #06a556;
+	color: white
+		
+}
+ h3{
+	color: #0444be;
+	text-align: center;
+}
+
+.Downnload-btn{
+	background-color: darkorange;
+	border: none;
+	color: white;
+	padding: 12px 30px;
+	cursor: pointer;
+	font-size: 20px;
+	text-align: center;	
+	margin-left: 38%;
+	max-width: 100%
+}
+.Downnload-btn:hover{
+	background-color: royalblue;
+	transition: 1.3s;
+}
+
+.button-More{
+	padding: 10px 15px;
+	font-size: 15px;
+	font-weight: 600;
+	text-align: center;
+	cursor: pointer;
+	outline: none;
+	color: #fff;
+	background-color: #071296;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #f4f2f2;
+}
+	
+.button-More:hover{
+	background-color: rgba(201, 12, 12, 0.73);
+}
+.button-More:active{
+	background-color: #3e8e41;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}

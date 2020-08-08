@@ -1,0 +1,18 @@
+.clients-grid{
+	margin-bottom: 20px;
+	
+}
+.column3{
+	padding: 10px 0px ;
+	float: left;
+	margin: 11px;
+	margin-bottom: 20px;	
+}
+.column3 p{
+	text-align: center;
+}
+.row3:after {
+  content: "";
+  display: table;
+  clear: both;
+}
